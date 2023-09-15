@@ -142,9 +142,9 @@ if __name__ == "__main__":
     for index in range(1, limit + 2, 4):
         print(
             f"findiff({coeffs}, {initdata}, {index})"
-            + f"  ==  {findiff(coeffs,initdata,index)}"
+            + f"  ==  {findiff(coeffs, initdata, index)}"
         )
         print(
-            f"findiff({coeffs}, {initdata}, {index+1})"
-            + f"  ==  {findiff(coeffs,initdata,index+1)}"
+            f"findiff({coeffs}, {initdata}, {index + 1})"
+            + f"  ==  {findiff(coeffs, initdata, index + 1)}"
         )
