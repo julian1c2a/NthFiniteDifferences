@@ -5,7 +5,7 @@
     <option name="enabledOnSave" value="true" />
     <option name="executionMode" value="BINARY" />
     <option name="pathToExecutable" value="E:\anaconda3\envs\PythonStudioRoom\Scripts\black.exe" />
-    <option name="sdkUUID" value="09536436-5eaf-4189-b663-4eed4fb64eeb" />
+    <option name="sdkName" value="Python 3.11" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11" project-jdk-type="Python SDK" />
 </project>
